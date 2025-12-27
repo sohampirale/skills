@@ -4,19 +4,16 @@ description: description
 ---
 
 # Purpose
-
-
+- “Why does this skill exist, and what mindset should be applied?”
 ## Variables
 
 
 ## Instructions
 
-
-### Fork Summary User Prompts
-
+- how should this skill be used
 
 ## Workflow
 
--stepwise work to be done while using this skill
+- stepwise work to be done while using this skill
 
 ## Cookbook
